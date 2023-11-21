@@ -38,6 +38,12 @@
             "link": "https://www.youtube.com/watch?v=1NUQipxb_00",
             "percent": 100,
             "hz": "120"
+        },
+        {
+            "user": "blackscreen",
+            "link": "https://www.youtube.com/watch?v=BSk4k1BNtv4",
+            "percent": 100,
+            "hz": "240"
         }
     ]
 }
