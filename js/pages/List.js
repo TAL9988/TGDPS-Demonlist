@@ -104,9 +104,9 @@ export default {
                     <div class="dark-bg">
                     <h2>Changelog:</h2>
                     <br>
-                    <p class="extended">November 19 2023</p>
+                    <p class="extended">November 25 2023</p>
                     <br><br>
-                    <p><button class="btn-no-cover" @click="selected = 29">Hiljak</button> has been placed at <b>#30</b>, with a list requirement of 52%, above PERIL and below Cosmic Hurricane. This change pushes Xtreme list Dem0m into the extended list, and Giga Halcyon into the legacy list.</p>
+                    <p><button class="btn-no-cover" @click="selected = 53">PITFALL</button> has been placed at <b>#54</b>, with a list requirement of 66%, above Gangnamhouse and below Conundrum. This change pushes Elemental Corridor into the extended list, and Hazardous Rush into the legacy list.</p>
                     </div>
                     <div class="dark-bg">
                     <h2>Guidelines</h2>
