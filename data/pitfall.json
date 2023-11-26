@@ -8,5 +8,13 @@
     "password": "Free Copy",
     "verification": "https://youtu.be/DJdPZznV_pA",
     "percentToQualify": 66,
-    "records": []
+    "records": [
+        {
+            "user": "evil",
+            "link": "https://www.youtube.com/watch?v=Vl0F1MUxRd8",
+            "percent": 100,
+            "hz": "240"
+        }
+        
+    ]
 }
