@@ -104,9 +104,9 @@ export default {
                     <div class="dark-bg">
                     <h2>Changelog:</h2>
                     <br>
-                    <p class="extended">November 25 2023</p>
+                    <p class="extended">December 5 2023</p>
                     <br><br>
-                    <p><button class="btn-no-cover" @click="selected = 53">PITFALL</button> has been placed at <b>#54</b>, with a list requirement of 66%, above Gangnamhouse and below Conundrum. This change pushes Elemental Corridor into the extended list, and Hazardous Rush into the legacy list.</p>
+                    <p><button class="btn-no-cover" @click="selected = 4">Mayday</button> has been placed at <b>#5</b>, with a list requirement of 52%, above void world rebirth and below Blister. This change pushes Anticipation into the extended list, and Hazardous Rush into the legacy list.</p>
                     </div>
                     <div class="dark-bg">
                     <h2>Guidelines</h2>
