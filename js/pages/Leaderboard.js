@@ -51,7 +51,7 @@ export default {
                 <div class="player-container">
                     <div class="player">
                         <h1>{{ entry.user }}</h1><p>#{{ selected + 1 }}</p>
-                        <h3 v-if="entry.total > 0"><b>{{entry.total}}</b></h3>
+                        <h3 v-if="entry.total > 0"><b>{{ localize(entry.total) }}</b></h3>
                         <p>Pack Bonus: {{ entry.packBonus }}</p>
                         <div class="packs" v-if="entry.packs.length > 0">
                             <div v-for="pack in entry.packs" class="tag" :style="{background:pack.colour}">

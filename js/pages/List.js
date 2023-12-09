@@ -51,7 +51,8 @@ export default {
                     <ul class="stats">
                         <li v-if="selected + 1 <= 150">
                             <div class="type-title-sm">Points:</div>
-                            <p>{{ score(selected + 1, level.percentToQualify, level.percentToQualify) }} (100% = {{ score(selected + 1, 100, level.percentToQualify) }})</p>
+                            <p v-if="selected + 1 <= 75">{{ score(selected + 1, level.percentToQualify, level.percentToQualify) }} (100% = {{ score(selected + 1, 100, level.percentToQualify) }})</p>
+                            <p v-else>{{ score(selected + 1, 100, level.percentToQualify) }}</p>
                         </li>
                         <li>
                             <div class="type-title-sm">ID:</div>
@@ -104,9 +105,9 @@ export default {
                     <div class="dark-bg">
                     <h2>Changelog:</h2>
                     <br>
-                    <p class="extended">December 5 2023</p>
+                    <p class="extended">December 9 2023</p>
                     <br><br>
-                    <p><button class="btn-no-cover" @click="selected = 4">Mayday</button> has been placed at <b>#5</b>, with a list requirement of 52%, above void world rebirth and below Blister. This change pushes Anticipation into the extended list, and Hazardous Rush into the legacy list.</p>
+                    <p><button class="btn-no-cover" @click="selected = 11">youngs</button> has been placed at <b>#12</b>, with a list requirement of 43%, above Celestial Showdown and below Casual. This change pushes Street Party into the extended list, and Way Back into the legacy list.</p>
                     </div>
                     <div class="dark-bg">
                     <h2>Guidelines</h2>
