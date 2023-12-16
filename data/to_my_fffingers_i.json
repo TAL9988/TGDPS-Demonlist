@@ -74,6 +74,12 @@
             "link": "https://www.youtube.com/watch?v=MEW0_WUeeEY",
             "percent": 100,
             "hz": "360"
+        },
+        {
+            "user": "GD Fayo",
+            "link": "https://www.youtube.com/watch?v=V7HeGQvX_Hs&ab_channel=GDFayo",
+            "percent": 100,
+            "hz": "360"
         }
     ]
 }
