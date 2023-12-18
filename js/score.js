@@ -19,16 +19,15 @@
     }
      let maximum_points = 250; //change this to change points of top 1
      let score = ((140 * maximum_points + 7000) / Math.sqrt(3157 * (rank - 1) + 19600) - 50) *
-         ((percent - (minPercent - 1)) / (100 - (minPercent - 1)));
+         ((percent - (minPercent - 1)) / (percent - (minPercent - 1)));
  
      score = Math.max(0, score);
      if (isNaN(score)) {
          score = 0;
      }
  
-     if (percent != 100) {
-         return round(score - score / 3);
-     }
+     if (percent != 100) { score = (score * Math.pow(5, ((percent - minPercent) / (100 - minPercent)))) / 10; }
+    return Number(score.toFixed(2));
  
      return round(score);
  }

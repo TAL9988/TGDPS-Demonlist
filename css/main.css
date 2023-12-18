@@ -46,18 +46,18 @@ main {
     background-color: var(--color-background);
     color: var(--color-on-background);
     display: grid;
-    grid-template-columns: minmax(16rem, 1fr) minmax(16rem, 2fr) minmax(
+    grid-template-columns: minmax(16rem, 1.05fr) minmax(16rem, 2fr) minmax(
             16em,
             1fr
         );
-    column-gap: 2rem;
+    column-gap: 4rem;
 }
 
 
 header {
     display: flex;
-    padding-inline: calc(25vw - 10rem);
-    height: 4rem;
+    padding-inline: calc(25vw - 13rem);
+    height: 4.25rem;
     background-color: var(--color-primary);
     color: var(--color-on-primary);
 }
@@ -108,7 +108,7 @@ main > div {
   height: 200px;
   border: 25px solid var(--color-legacy);
   border-top-color: var(--color-extended);
-  border-radius: 49%;
+  border-radius: 50%;
   box-shadow: 0px 0px 50px var(--color-extended);
   animation: loading 0.75s ease-in-out infinite;
 }
