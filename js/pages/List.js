@@ -105,9 +105,9 @@ export default {
                     <div class="dark-bg">
                     <h2>Changelog:</h2>
                     <br>
-                    <p class="extended">December 9 2023</p>
+                    <p class="extended">December 19 2023</p>
                     <br><br>
-                    <p><button class="btn-no-cover" @click="selected = 11">youngs</button> has been placed at <b>#12</b>, with a list requirement of 43%, above Celestial Showdown and below Casual. This change pushes Street Party into the extended list, and Way Back into the legacy list.</p>
+                    <p><button class="btn-no-cover" @click="selected = 5">COLON THREE</button> has been placed at <b>#6</b>, with a list requirement of 55%, above void world rebirth and below Mayday. This change pushes april the 2nd into the Extended list, and Chromatic Rush into the Legacy list.</p>
                     </div>
                     <div class="dark-bg">
                     <h2>Guidelines</h2>
