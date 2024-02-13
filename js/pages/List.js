@@ -105,9 +105,9 @@ export default {
                     <div class="dark-bg">
                     <h2>Changelog:</h2>
                     <br>
-                    <p class="extended">January 14 2024</p>
+                    <p class="extended">February 13 2024</p>
                     <br><br>
-                    <p><button class="btn-no-cover" @click="selected = 36">SLUMP</button> has been placed at <b>#37</b>, with a list requirement of 57%, above Sailing Force and below Lullaby.<br><br> <button class="btn-no-cover" @click="selected = 117">The Hell Gyat</button> has been placed at <b>#118</b>, above elemental temple and below Necrokilo. <br>This change pushes Flashing lights into the Extended list, and Black Drops 2 & Pitch Black into the Legacy list.</p>
+                    <p><button class="btn-no-cover" @click="selected = 113">Khaotic Planet</button> has been placed at <b>#114</b>, above crestfallen and below Chromatic Meteor.<br><br>This change pushes DirtyPaws into the Legacy list.</p>
                     </div>
                     <div class="dark-bg">
                     <h2>Guidelines</h2>
