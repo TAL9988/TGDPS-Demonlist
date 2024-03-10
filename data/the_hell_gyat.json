@@ -8,5 +8,12 @@
     "password": "Free Copy",
     "verification": "https://www.youtube.com/watch?v=h9DUt2E5V7U",
     "percentToQualify": 100,
-    "records": []
+    "records": [
+        {
+            "user": "GD Fayo",
+            "link": "https://www.youtube.com/watch?v=sIZ1U7Cq0ss&ab_channel=GDFayo",
+            "percent": 100,
+            "hz": "360"
+        }
+    ]
 }
