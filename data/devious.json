@@ -51,6 +51,13 @@
             "link": "https://youtu.be/QGIWTDNZKlA",
             "percent": 100,
             "hz": "360"
+        },
+        {
+            "user": "sd Ace",
+            "link": "https://www.youtube.com/watch?v=3z9Y1ZKZDac",
+            "percent": 100,
+            "hz": "60",
+            "mobile": true
         }
     ]
 }
