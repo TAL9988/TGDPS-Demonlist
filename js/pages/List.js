@@ -243,16 +243,16 @@ export default {
                         <br>
 
                         <p class="extended">
-                            October 6th 2026
+                            November 1st 2026
                         </p>
 
                         <br><br>
 
                         <button
                             class="btn-no-cover"
-                            @click="jumpTo(14)"
+                            @click="jumpTo(29)"
                         >
-                            Shardscapes and Bloodlust have been swapped, with Bloodlust now sitting above at #15.
+                            ADOMANIA and Cersia Difficult have been swapped, with Cersia Difficult now sitting above at #30.
                         </button>
                     </div>
 
