@@ -243,7 +243,7 @@ export default {
                         <br>
 
                         <p class="extended">
-                            November 1st 2026
+                            November 2nd 2026
                         </p>
 
                         <br><br>
@@ -252,7 +252,7 @@ export default {
                             class="btn-no-cover"
                             @click="jumpTo(29)"
                         >
-                            ADOMANIA and Cersia Difficult have been swapped, with Cersia Difficult now sitting above at #30.
+                            Kenos has been placed #6, above Zodiac and below Starlight Summit. This pushes EXPLICIT into the Extended List and AcropoliX into the Legacy List.
                         </button>
                     </div>
 
