@@ -210,7 +210,7 @@ export default {
                             class="btn-no-cover"
                             @click="jumpTo(1)"
                         >
-                            Tidal Processing has been placed at #2, above Clutterfunk and below Clubstep. This pushes Sunshine out of the top 10.
+                            Theory of Everything 2 has been placed at #1, above Clubstep. This pushes Jumper out of the Top 10.
                         </button>
                     </div>
 
