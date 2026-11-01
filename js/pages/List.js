@@ -252,7 +252,7 @@ export default {
                             class="btn-no-cover"
                             @click="jumpTo(5)"
                         >
-                            Kenos has been placed #6, above Zodiac and below Starlight Summit. This pushes EXPLICIT into the Extended List and AcropoliX into the Legacy List.
+                            Kenos has been placed at #6, above Zodiac and below Starlight Summit. This pushes EXPLICIT into the Extended List and AcropoliX into the Legacy List.
                         </button>
                     </div>
 
