@@ -243,16 +243,16 @@ export default {
                         <br>
 
                         <p class="extended">
-                            November 2nd 2026
+                            November 12th 2026
                         </p>
 
                         <br><br>
 
                         <button
                             class="btn-no-cover"
-                            @click="jumpTo(5)"
+                            @click="jumpTo(75)"
                         >
-                            Kenos has been placed at #6, above Zodiac and below Starlight Summit. This pushes EXPLICIT into the Extended List and AcropoliX into the Legacy List.
+                            The Hell Origin has been placed at #76, above Blade of Justice and below hot rod. This change pushes Redemption into the Legacy List.
                         </button>
                     </div>
 
